@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Carve Every Day
 
 You can use the [editor on GitHub](https://github.com/mirtay/carveeveryday/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
