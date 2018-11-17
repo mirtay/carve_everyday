@@ -19,8 +19,8 @@ I also write code professionaly for (Quorate Technology)[https://quoratetechnolo
 
 ### Current Read/Favourite Recent Reads
 
-_The Power of Habit_ by Charles Duhigg 
-_Healthy Sleep Habits, Happy Child_ by Marc Weissbluth, M.D.
+- _The Power of Habit_ by Charles Duhigg 
+- _Healthy Sleep Habits, Happy Child_ by Marc Weissbluth, M.D.
 
 ### Toddler Quote of the Day
 
