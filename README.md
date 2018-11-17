@@ -1,37 +1,27 @@
-## Carve Every Day
+![Image](https://scontent-sea1-1.cdninstagram.com/vp/4f171beb4141ea820214641e48fcb805/5C7FF9B4/t51.2885-19/s320x320/20214644_1983568285211735_2113010900452507648_a.jpg)
 
-You can use the [editor on GitHub](https://github.com/mirtay/carveeveryday/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Miranda Bryn Taylor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I try to carve every day, but I am a mother of two and a professional programmer, so that doesn't always happen :)
 
-### Markdown
+### Spoon Gallery
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you're curious, please check out my [Instagram gallery](https://www.instagram.com/miranda.b.taylor/).
 
-```markdown
-Syntax highlighted code block
+### Day Job
 
-# Header 1
-## Header 2
-### Header 3
+I also write code professionaly for (Quorate Technology)[https://quoratetechnology.com], a speech recognition startup based in Edinburgh.  I specialize in natural language processing and am currently working with deep neural nets.  It's fascinating!   
 
-- Bulleted
-- List
+### Side Projects
 
-1. Numbered
-2. List
+- [Secret Baby Food Instagram](https://www.instagram.com/eatitallbabydoll/)
+- [Old Etsy Shop... from back in the day... but might have a future](https://www.etsy.com/shop/goodergoods/sold)
 
-**Bold** and _Italic_ and `Code` text
+### Current Read/Favourite Recent Reads
 
-[Link](url) and ![Image](src)
-```
+_The Power of Habit_ by Charles Duhigg 
+_Healthy Sleep Habits, Happy Child_ by Marc Weissbluth, M.D.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Toddler Quote of the Day
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirtay/carveeveryday/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Mama... I like your voices._ - **Bonnie**
