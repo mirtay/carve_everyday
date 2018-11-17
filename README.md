@@ -1,7 +1,5 @@
 ![Image](https://scontent-sea1-1.cdninstagram.com/vp/4f171beb4141ea820214641e48fcb805/5C7FF9B4/t51.2885-19/s320x320/20214644_1983568285211735_2113010900452507648_a.jpg)
 
-## Info bout Miranda Bryn Taylor
-
 I try to carve every day, but I am a mother of two and a professional programmer, so that doesn't always happen :)
 
 ### Spoon Gallery
